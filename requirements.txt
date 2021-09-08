@@ -1,6 +1,6 @@
 colorz==1.0.3
 Flask==1.1.2
 numpy==1.18.4
-Pillow==2.2.1
+Pillow==8.3.2
 svgwrite==1.4
 urllib3==1.25.9
